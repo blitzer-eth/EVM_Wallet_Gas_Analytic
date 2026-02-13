@@ -8,6 +8,11 @@ The suite is designed to help power users and analysts understand their cumulati
 
 ---
 
+## :camera_flash: Snapshot 
+<img width="3734" height="4407" alt="dune-evm-wallet" src="https://github.com/user-attachments/assets/7f3b82c3-d856-4da7-9593-005226b0419b" />
+
+---
+
 ## 🔍 Query Breakdown
 
 ### 1. Multi-Chain ETH Gas Spend
@@ -33,8 +38,3 @@ An "Activity Map" that identifies which decentralized applications (dApps) you i
 * **Protocol Labeling:** Automatically resolves raw contract addresses into human-readable names (e.g., "Uniswap," "Zora," or "Aave").
 * **Engagement Metrics:** Ranks protocols by total transaction count and total ETH gas spent.
 * **USD Tracking:** Tracks the dollar value of interactions both at the time of the call and under current market conditions.
-
----
-
-## :camera_flash: Snapshot 
-<img width="3734" height="4407" alt="dune-evm-wallet" src="https://github.com/user-attachments/assets/7f3b82c3-d856-4da7-9593-005226b0419b" />
